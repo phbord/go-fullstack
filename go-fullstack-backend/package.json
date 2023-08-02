@@ -1,0 +1,19 @@
+{
+  "name": "go-fullstack-backend",
+  "version": "1.0.0",
+  "description": "OpenClassroom - projet 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phbord/go-fullstack.git"
+  },
+  "author": "phbord",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phbord/go-fullstack/issues"
+  },
+  "homepage": "https://github.com/phbord/go-fullstack#readme"
+}
